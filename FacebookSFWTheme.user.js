@@ -29,7 +29,7 @@ sheet.insertRule("#globalContainer a, .fbReminders .fbRemindersStory .fbReminder
 sheet.insertRule("img, ._ox1 { -webkit-filter: grayscale(1); filter: grayscale(1); opacity: 0.1; }", 0);
 sheet.insertRule(".notifCentered a.jewelButton, #privacyFlyoutLabel, #userNavigationLabel { -webkit-filter: grayscale(1) brightness(10); filter: grayscale(1) brightness(10); }", 0);
 sheet.insertRule("img:hover, ._ox1:hover { -webkit-filter: grayscale(0); filter: grayscale(0); opacity: 1; }", 0);
-sheet.insertRule("#blueBarNAXAnchor, ._5q5b .fbNubFlyoutTitlebar { background: #333; color: white; border-radius: 0; }", 0);
+sheet.insertRule("#blueBarNAXAnchor, ._5q5b .fbNubFlyoutTitlebar, ._50mz.focusedTab .titlebar { background: #333; color: white; border-radius: 0; }", 0);
 sheet.insertRule(".smurfbarTopBorder { border-radius: 0 !important; }", 0);
 sheet.insertRule("._539- .uiTypeahead .wrap, ._5vb_, ._5vb_ #contentCol, ._5vb_ ._5pr2.fbChatSidebar { background: white; }", 0);
 sheet.insertRule("._5lus, .imgWrap, ._5pr2 ._56p9, ._ohe, .uiIconText._51z7 i, .pagelet, ._5ys_, ._5w1r:before, ._5w1r:after, ._3rzn ._509v ._509w { display: none; }", 0);
